@@ -1,4 +1,4 @@
 # learning
-## bash
+## [./bash](bash)
 
-## latex
+## [./latex](latex)
